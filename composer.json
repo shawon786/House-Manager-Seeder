@@ -1,0 +1,13 @@
+{
+    "name": "machine/hm-seeder",
+    "type": "metapackage",
+    "authors": [
+        {
+            "name": "Nadim",
+            "email": "nadim0988@gmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.7"
+    }
+}
